@@ -9,7 +9,7 @@
 
 **A Strategic Turn-Based Card Battle Game Built with AI-Assisted Vibe Coding**
 
-[💻 Vibe Coding Approach](#-development-with-vibe-coding) • [🗣️ Key Prompts](#-key-prompts-used) • [🎮 How to Play](#-gameplay-overview) • [🚀 Getting Started](#-getting-started)
+[💻 Vibe Coding Approach](#-development-with-vibe-coding) • [Key Prompts](#-key-prompts-used) • [🎮 How to Play](#-gameplay-overview) • [🚀 Getting Started](#-getting-started)
 
 </div>
 
@@ -277,7 +277,8 @@ All you need is a web browser! No installation, dependencies, or build process r
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cardmate-battle.git
+   git clone https://github.com/RohanDaram/cardmate-battle.git
+   
    cd cardmate-battle
    ```
 
